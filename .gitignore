@@ -1,0 +1,11 @@
+# Node modules folders
+frontend/node_modules
+backend/node_modules
+
+# Environment file (contains secrets)
+backend/.env
+
+# Common OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
