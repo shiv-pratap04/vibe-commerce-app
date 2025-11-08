@@ -35,6 +35,7 @@ Vibe-Commerce-App/
 │ ├── pages/
 │ ├── store/
 │ └── App.jsx
+│
 ├── backend/ # Node.js/Express server
 │ ├── config/
 │ │ └── db.js
@@ -42,9 +43,9 @@ Vibe-Commerce-App/
 │ ├── models/
 │ ├── routes/
 │ └── server.js
-├── .env
+│
+├── .env # Environment variables
 └── README.md
-
 
 
 ---
