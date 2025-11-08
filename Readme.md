@@ -25,31 +25,6 @@ This project demonstrates a complete e-commerce flow using the **MERN stack** �
 
 ---
 
-## 📁 Folder Structure
-
-Vibe-Commerce-App/
-├── frontend/ # React application
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── store/
-│ └── App.jsx
-│
-├── backend/ # Node.js/Express server
-│ ├── config/
-│ │ └── db.js
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-│
-├── .env # Environment variables
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 > You need Node.js (v14+), npm, and access to a MongoDB instance (Atlas or local).
